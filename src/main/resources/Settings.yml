@@ -1,0 +1,10 @@
+#local, MySQL
+Storage: local
+
+Database:
+  Host: 'localhost'
+  Port: 3306
+  Database: 'staffmode'
+  User: 'root'
+  Password: 'wowditiseengoedwachtwoord101'
+  MaxPools: 5

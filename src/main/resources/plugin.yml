@@ -1,0 +1,9 @@
+name: MiniGame
+version: ${project.version}
+main: me.danieljunek17.bootcamp.Minigame
+authors: [ danieljunek17 ]
+
+commands:
+  migrate:
+
+  location:
